@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Nikolaos
+#### I am an infrastructure developer and security architect
+I design secure architecture and write infrastructure as code for environments hosted in the AWS cloud.
 
-My name is Nikolaos and I love writing secure infrastructure as code for environments hosted in the AWS cloud.
+Skills: AWS / Terraform / Security / Infrastructure
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nick22d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nicholas-doropoulos/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/nick22f)  
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick22d)](https://github.com/anuraghazra/github-readme-stats)
 
