@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Nikolaos and I love writing secure infrastructure as code for environments hosted in the AWS cloud.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick22d)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nick22d/nick22d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
