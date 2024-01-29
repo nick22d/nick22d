@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Nikolaos
-I design secure architecture and write infrastructure as code for environments hosted in the AWS cloud.
+### Hi there 👋, my name is Nicholas
+I design, build and manage secure infrastructure.
 
 ## Skills: 
 - AWS
