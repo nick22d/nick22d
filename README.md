@@ -44,7 +44,9 @@ Python • Bash
 
 ## 🧭 Philosophy
 
-I believe that ...
+My philosophy is 'do it the Roman way'.
+
+The Roman empire, one of the biggest empires the world has ever seen, depended on its legionnaires to expand and protect all of its conquered territories. For this reason, the Roman legionnaire left nothing to chance. From his weaponry and clothing, to his helmet and boots, everything was designed for maximum efficiency on the field of battle. In other words, the Roman legionnaire was the ultimate control freak in history. And that's the model I believe engineers should strive to emulate.
 
 ---
 
