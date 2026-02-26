@@ -42,7 +42,7 @@ Python • Bash
 
 ---
 
-## 🧭 Philosophy
+## 📜 Philosophy
 
 My philosophy is 'do it the Roman way'.
 
