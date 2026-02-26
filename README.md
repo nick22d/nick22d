@@ -1,11 +1,52 @@
-### Hi there 👋, my name is Nicholas
-I design, build and manage secure infrastructure.
+# Nicholas Doropoulos
 
-## Skills: 
-- AWS
-- Terraform
-- Security
-- Infrastructure
+## 🚀 Cloud Architect | Security Specialist | Educator | Systems Builder
+
+Award-winning Solutions Architect with 10+ years of experience across multiple industry verticals.  
+Former AWS Security Engineer and Senior Cloud & Network Security Architect at the European Parliament.
+
+I design **secure, scalable, production-grade cloud systems** — and teach others how to do the same.
+
+---
+
+## 🧠 About Me
+
+- 🔐 4× AWS SME accredited (Security domains)
+- ☁️ AWS & DevOps specialist
+- 👨‍🏫 Best-selling Udemy instructor (10,000+ students across 135 countries)
+
+---
+
+## 🏛 Professional Background
+
+- Former AWS Security Engineer  
+- Former Senior Cloud & Network Security Architect at the European Parliament  
+- Solutions Architect across multiple industry verticals  
+- Consultant designing production-ready AWS architectures  
+
+---
+
+## 🛠 Tech Stack
+
+### Cloud
+AWS • Azure • Digital Ocean 
+
+### Infrastructure-as-Code
+Terraform • CloudFormation • Packer • Vagrant
+
+### Containers
+Docker • ECS • Fargate • Kubernetes
+
+### Scripting
+Python • Bash
+
+---
+
+## 🧭 Philosophy
+
+I believe that ...
+
+---
 
 ## Contact me
 
