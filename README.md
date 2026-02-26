@@ -19,15 +19,6 @@ I am a serious technologist with a vast range of experience in a multitude of ro
 
 ---
 
-## 🏛 Professional Background
-
-- Former AWS Security Engineer  
-- Former Senior Cloud & Network Security Architect at the European Parliament  
-- Solutions Architect across multiple industry verticals  
-- Consultant designing production-ready AWS architectures  
-
----
-
 ## 🛠 Tech Stack
 
 ### Cloud
