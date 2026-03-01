@@ -11,7 +11,7 @@ I design **secure, scalable, production-grade cloud systems** — and teach othe
 
 ## 🧠 About Me
 
-I am a serious technologist with a vast range of experience in a multitude of roles. Throughout my career, I have worked in no less than four different countries across Europe and learned from some of the best people in the industry.
+I am a serious technologist with a vast range of experience in a multitude of roles. Throughout my international career, I have worked in no less than four different countries across Europe and learned from some of the best people in the industry.
 
 - 🔐 4× AWS SME accredited (Security domains)
 - ☁️ AWS & DevOps specialist
