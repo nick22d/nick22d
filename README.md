@@ -11,7 +11,9 @@ I design **secure, scalable, production-grade cloud systems** — and teach othe
 
 ## 🧠 About Me
 
-I am a serious technologist with a vast range of experience in a multitude of roles. Throughout my international career, I have worked in no less than four different countries across Europe and learned from some of the best people in the industry. I am open to high-impact opportunities in the areas of security, infrastructure, cloud architecture and DevOps engineering.
+I design and secure large-scale cloud and infrastructure environments across complex, multi-national organizations. With experience spanning security engineering, cloud architecture, and DevOps transformation, I focus on building resilient, scalable, and governance-driven systems.
+
+I am open to high-impact opportunities where I can contribute to strategic architecture, security leadership, and long-term technical vision.
 
 ---
 
